@@ -1,0 +1,9 @@
+{"Nombre": "Laura",
+"Apellido": "Rodriguez",
+"Edad": 24,
+"PrecioAsiento": 200.24,
+"Pagado": true,
+"Asiento":{"numero":13,"Letra": "F", "Cargador": false},
+"hitorial": 
+[{"Salida": "New York", "Destino": "Chicago", "Fecha": "18/10/2020"},
+{"Salida": "Madrid", "Destino":"Barcelona", "Fecha": "14/25/19"}]}
