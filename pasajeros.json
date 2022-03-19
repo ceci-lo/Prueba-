@@ -1,4 +1,4 @@
-{"Nombre": "Laura",
+[{"Nombre": "Laura",
 "Apellido": "Rodriguez",
 "Edad": 24,
 "PrecioAsiento": 200.24,
@@ -6,4 +6,13 @@
 "Asiento":{"numero":13,"Letra": "F", "Cargador": false},
 "hitorial": 
 [{"Salida": "New York", "Destino": "Chicago", "Fecha": "18/10/2020"},
-{"Salida": "Madrid", "Destino":"Barcelona", "Fecha": "14/25/19"}]}
+{"Salida": "Madrid", "Destino":"Barcelona", "Fecha": "14/25/19"}]},
+{"Nombre": "Pablo",
+    "Apellido": "lopez",
+    "Edad": 32,
+    "PrecioAsiento": 500.24,
+    "Pagado": false,
+    "Asiento":{"numero":7,"Letra": "F", "Cargador": false},
+    "hitorial": 
+    [{"Salida": "Buenos Aires", "Destino": "Cordoba", "Fecha": "18/10/2020"},
+    {"Salida": "Asuncion", "Destino":"La paz", "Fecha": "14/25/19"}]}]
